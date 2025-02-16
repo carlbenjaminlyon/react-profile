@@ -6,11 +6,11 @@ import ButtonTest from './assets/components/Button';
 
 function App() {
 
-    return (
-        <div>
-            <ButtonTest />
-        </div>
-    );
+	return (
+		<div>
+			<ButtonTest />
+		</div>
+	);
 };
 
 export default App;
